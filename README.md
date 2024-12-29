@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
 <h3 align="center">A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀</h3>
 
-- 🔭 I’m currently working on **Cognitive Face Attendance System**
+- 🔭  **Inquisitive Technical Researcher and Developer**
 
-- 🌱 I’m currently learning **Ansible,jenkins,K8,Docker,OpenCV,SpringBoot,Django**
+- 🌱  **DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain**
 
 <p align="left">
 </p>
