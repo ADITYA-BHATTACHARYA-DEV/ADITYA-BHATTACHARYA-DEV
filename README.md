@@ -4,7 +4,7 @@
 
 - 🔭  **Inquisitive Technical Researcher and Developer**
 
-- 🌱  **DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain**
+- 🌱  **DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain, Full stack App/Web**
 
 <p align="left">
 </p>
