@@ -5,7 +5,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
 <h2 align="center">💫 About Me:</h2>
 
-![Hi Hello GIF](https://media.tenor.com/41c6J0JFUMIAAAAC/hi-hello.gif)
+
+![robot-lunch (1)](https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683)
 
 
 
