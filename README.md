@@ -1,14 +1,18 @@
 ![pixelcut-export](https://github.com/user-attachments/assets/971c6255-0aec-4e06-8b6c-f2a698cee48b)
 
-
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683" alt="Profile Mascot"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
 
 <h2 align="center">🌟 About Me:</h2>
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683" alt="Profile Mascot"/>
+    <img src="https://github.com/user-attachments/assets/71b70581-c41f-4cb0-b8c0-8bfbf1443f44" alt="Profile Mascot"/>
 </p>
+
+
 
 <p align="center">
     A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀 <br><br>
@@ -18,7 +22,9 @@
 </p>
 
 
-
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/55027f52-99a2-4c0c-813c-eb8125b964c9" alt="Profile Mascot"/>
+</p>
 
 
 
