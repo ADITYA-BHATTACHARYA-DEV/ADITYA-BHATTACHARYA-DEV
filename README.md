@@ -6,6 +6,10 @@
 
 <h2 align="center">🌟 About Me:</h2>
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683" alt="Profile Mascot"/>
+</p>
+
 
 ![robot-lunch (1)](https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683)
 <p align="center">
