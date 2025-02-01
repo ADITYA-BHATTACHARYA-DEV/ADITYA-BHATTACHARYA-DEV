@@ -9,15 +9,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Fetch Hashnode Articles
+      - name: Fetch Hashnode Articles with Images
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://codermaniac.hashnode.dev/rss.xml"
-          show_image: true  # This enables featured images!
+          show_image: true  # Enable featured images
+          max_post_count: 5  # Number of latest posts to show
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "Updated latest Hashnode posts with images" || echo "No changes to commit"
+          git commit -m "Updated latest Hashnode posts with cover images" || echo "No changes to commit"
           git push
