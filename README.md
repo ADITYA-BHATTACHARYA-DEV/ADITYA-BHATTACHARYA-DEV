@@ -2,6 +2,69 @@
 
 
 
+
+
+
+<!-- Animated GitHub README -->
+<h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
+<h2 align="center">💫 About Me:</h2>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/971c6255-0aec-4e06-8b6c-f2a698cee48b" width="250" height="250"/>
+</div>
+
+<p align="center" id="typewriter"></p>
+
+<style>
+  body {
+    background: linear-gradient(135deg, #000428, #004e92);
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+
+  @keyframes glow {
+    0% { text-shadow: 0 0 5px #00eaff; }
+    50% { text-shadow: 0 0 20px #00eaff; }
+    100% { text-shadow: 0 0 5px #00eaff; }
+  }
+
+  h1, h2 {
+    animation: glow 2s infinite alternate;
+  }
+
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+
+  .floating {
+    animation: float 3s ease-in-out infinite;
+  }
+</style>
+
+<script>
+  const text = "A fervent technophile, perpetually captivated by innovation and the boundless potential of code.";
+  let i = 0;
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typewriter").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 100);
+    }
+  }
+  window.onload = typeWriter;
+</script>
+
+<div align="center" class="floating">
+  <img src="https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683" width="400" height="250"/>
+</div>
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
 <h2 align="center">💫 About Me:</h2>
 
