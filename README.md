@@ -21,7 +21,7 @@
  
     
   </p>
-<h2 align="center">🏆 Achievements and Accolades</h2>
+<h1 align="center">🏆 Achievements and Accolades</h1>
 
 <p align="center">
    🏆 Smart India Hackathon 2024 Grand Finalist 2024 <br><br>
