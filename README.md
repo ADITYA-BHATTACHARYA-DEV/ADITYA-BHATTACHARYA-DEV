@@ -6,9 +6,7 @@
 
 <h2 align="center">🌟 About Me:</h2>
 
-<p align="center">
-    <img src="https://github.com/user-attachments/assets/971c6255-0aec-4e06-8b6c-f2a698cee48b" alt="Profile Banner"/>
-</p>
+![robot-lunch (1)](https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683)
 
 <p align="center">
     A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀 <br><br>
@@ -19,11 +17,8 @@
 <h2 align="center">💻 Tech Stack:</h2>
 
 
-![robot-lunch (1)](https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683)
 
 
-
-A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀<br>🔭 Inquisitive Technical Researcher and Developer<br><br>🌱 DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain, Full stack App/Web
 
 
 # 💻 Tech Stack:
