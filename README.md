@@ -32,7 +32,7 @@
 
 
 
-<p align="center" height=200 width 200>
+<p align="center" height="100" width= "100">
     <img src="https://github.com/user-attachments/assets/dfc424ca-15bb-42bd-a0e8-ee2b63cf144c" alt="Profile Mascot"/>
 </p>
 
