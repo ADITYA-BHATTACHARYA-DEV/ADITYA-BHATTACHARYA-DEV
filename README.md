@@ -10,8 +10,6 @@
     <img src="https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683" alt="Profile Mascot"/>
 </p>
 
-
-![robot-lunch (1)](https://github.com/user-attachments/assets/2adeafc6-217f-4d48-9450-025fc3d18683)
 <p align="center">
     A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀 <br><br>
     🔭 Inquisitive Technical Researcher and Developer<br><br>
