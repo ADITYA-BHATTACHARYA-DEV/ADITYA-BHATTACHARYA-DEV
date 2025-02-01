@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
 <h2 align="center">💫 About Me:</h2>
-
+https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-GRPy8MKag9U1U88hzY
 <br>
 A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀<br>🔭 Inquisitive Technical Researcher and Developer<br><br>🌱 DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain, Full stack App/Web
 
