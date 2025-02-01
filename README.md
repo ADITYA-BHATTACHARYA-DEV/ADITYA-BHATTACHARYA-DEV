@@ -44,13 +44,18 @@
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=ADITYA-BHATTACHARYA-DEV&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
-### ✍️ Random Dev Quote  
+### ✍️ Inspirational Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ### 🔝 Top Contributed Repo  
 ![](https://github-contributor-stats.vercel.app/api?username=ADITYA-BHATTACHARYA-DEV&limit=5&theme=algolia&combine_all_yearly_contributions=true)  
 
 </div>
+
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/079a2417-21ba-4a17-b008-4d62557c31e7" alt="Profile Mascot"/>
+</p>
 
 
 ---
