@@ -1,3 +1,4 @@
+![Screenshot 2025-02-01 130414](https://github.com/user-attachments/assets/dfa95a56-0286-4294-86c4-a1202279c034)
 
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
 <h2 align="center">💫 About Me:</h2>
