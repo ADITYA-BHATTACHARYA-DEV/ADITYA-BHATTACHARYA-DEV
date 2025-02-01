@@ -1,4 +1,5 @@
-![Screenshot 2025-02-01 130648](https://github.com/user-attachments/assets/5b6c8275-1f61-46a9-91e1-294e27a1e839)
+![pixelcut-export](https://github.com/user-attachments/assets/971c6255-0aec-4e06-8b6c-f2a698cee48b)
+
 
 
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
