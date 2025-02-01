@@ -57,6 +57,8 @@
 ## 📖 Read My technical Writings on Hashnode
 ## 📝 Latest Hashnode Articles
 <!-- BLOG-POST-LIST:START -->
+- [Pixels and Promises: The Ongoing Saga of Computer Vision](https://codermaniac.hashnode.dev/pixels-and-promises-the-ongoing-saga-of-computer-vision)
+- [A Beginner&#39;s Guide for Open Source: What ?, How?, Why?](https://codermaniac.hashnode.dev/a-beginners-guide-for-open-source-what-how-why)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🐍 Watch Out -> My Commits !!
