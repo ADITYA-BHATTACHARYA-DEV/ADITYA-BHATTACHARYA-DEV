@@ -18,10 +18,17 @@
     A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀 <br><br>
     🌱 DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain, Full-stack App/Web<br><br>
     🔭 Inquisitive Technical Researcher and Developer<br><br>
-
+ 
+    
   </p>
 
-
+## 🏆 Achievements and Accolades
+<p align="center">
+   🏆 Smart India Hackathon 2024 Grand Finalist 2024 <br><br>
+   🏆 Top 95 In Asia Pacific Google Ai for Impact <br><br>
+ 
+    
+  </p>
 
 
 # 💻 Tech Stack:
