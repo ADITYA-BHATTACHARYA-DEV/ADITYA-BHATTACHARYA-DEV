@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
 <h2 align="center">💫 About Me:</h2>
-![image](https://github.com/user-attachments/assets/f155b849-c330-470e-b3c8-26342c8a9e5a)
 
+<div class="tenor-gif-embed" data-postid="7599730966006624111" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hi-hello-hiya-howdy-good-morning-gif-7599730966006624111">Hi Hello GIF</a>from <a href="https://tenor.com/search/hi-gifs">Hi GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <br>
 A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀<br>🔭 Inquisitive Technical Researcher and Developer<br><br>🌱 DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain, Full stack App/Web
 
