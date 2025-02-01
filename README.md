@@ -2,6 +2,71 @@
 
 
 
+<h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
+
+<h2 align="center">🌟 About Me:</h2>
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/971c6255-0aec-4e06-8b6c-f2a698cee48b" alt="Profile Banner"/>
+</p>
+
+<p align="center">
+    A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀 <br>
+    🔭 Inquisitive Technical Researcher and Developer<br><br>
+    🌱 DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain, Full-stack App/Web
+</p>
+
+<h2 align="center">💻 Tech Stack:</h2>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+    <br>
+    (Add more as required...)
+</p>
+
+<h2 align="center">📊 GitHub Stats:</h2>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ADITYA-BHATTACHARYA-DEV&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ADITYA-BHATTACHARYA-DEV&theme=chartreuse-dark&hide_border=false" /><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADITYA-BHATTACHARYA-DEV&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
+
+<h2 align="center">🏆 GitHub Trophies:</h2>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ADITYA-BHATTACHARYA-DEV&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
+
+<h2 align="center">📝 Dev Quote:</h2>
+
+<p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<h2 align="center">💪 Top Contributed Repo:</h2>
+
+<p align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ADITYA-BHATTACHARYA-DEV&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
+</p>
+
+<p align="center">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=ADITYA-BHATTACHARYA-DEV&icon=0&color=0" />
+    </a>
+</p>
+
+<p align="center">Proudly created with <a href="https://gprm.itsvg.in">GPRM</a> 🚀</p>
+
+
+
+
 
 <h1 align="center">Hi 👋, I'm Aditya Bhattacharya</h1>
 <h2 align="center">💫 About Me:</h2>
