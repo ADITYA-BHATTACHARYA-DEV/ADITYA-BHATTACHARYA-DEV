@@ -21,8 +21,8 @@
  
     
   </p>
+<h2 align="center">🏆 Achievements and Accolades</h2>
 
-## 🏆 Achievements and Accolades
 <p align="center">
    🏆 Smart India Hackathon 2024 Grand Finalist 2024 <br><br>
    🏆 Top 95 In Asia Pacific Google Ai for Impact International Hackathon<br><br>
