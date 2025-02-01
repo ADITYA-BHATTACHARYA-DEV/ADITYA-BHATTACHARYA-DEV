@@ -16,10 +16,10 @@
 
 <p align="center">
     A fervent technophile, perpetually captivated by the pulsating heart of innovation and the boundless potential of code. 🚀 <br><br>
+    🌱 DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain, Full-stack App/Web<br><br>
     🔭 Inquisitive Technical Researcher and Developer<br><br>
 
-    🌱 DevOps, Machine Learning, Generative AI, Computer Vision, Deep Learning, IPFS, Web 3.0, Blockchain, Full-stack App/Web
-</p>
+  </p>
 
 
 
