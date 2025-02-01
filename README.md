@@ -61,7 +61,10 @@
   <img src="https://media.licdn.com/dms/image/v2/D5612AQHAUjZQaYW-8g/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721567040854?e=1743638400&v=beta&t=MjFI5XG1geLLfupvlhhPcmvXpE136pC01AEi9XDlD3o" alt="Computer Vision" width="800"/>
 </a>
 
-- [A Beginner&#39;s Guide for Open Source: What ?, How?, Why?](https://codermaniac.hashnode.dev/a-beginners-guide-for-open-source-what-how-why)
+<a href="https://codermaniac.hashnode.dev/pixels-and-promises-the-ongoing-saga-of-computer-vision">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShU9ynm6hnArprqiVQUHpBanUKnQg7QFHNOQ&s" alt="Open Source" width="800"/>
+</a>
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🐍 Watch Out -> My Commits !!
