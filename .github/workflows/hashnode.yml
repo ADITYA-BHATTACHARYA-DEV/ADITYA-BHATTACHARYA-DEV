@@ -9,12 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Fetch Hashnode Articles with Images
+      - name: Fetch Hashnode Articles with Cover Images
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://codermaniac.hashnode.dev/rss.xml"
-          show_image: true  # Enable featured images
-          max_post_count: 5  # Number of latest posts to show
+          show_image: true  # This enables featured images
+          max_post_count: 5  # Limit number of posts to fetch
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
