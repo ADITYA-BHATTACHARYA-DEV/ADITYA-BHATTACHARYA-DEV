@@ -86,7 +86,7 @@
 
 
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/079a2417-21ba-4a17-b008-4d62557c31e7" alt="Profile Mascot"/>
+    <img src="https://github.com/user-attachments/assets/079a2417-21ba-4a17-b008-4d62557c31e7" alt="Profile Mascot" height="200" width="400"/>
 </p>
 
 
