@@ -56,9 +56,8 @@
 
 ## 📖 Read My technical Writings on Hashnode
 ## 📝 Latest Hashnode Articles
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🐍 Watch Out -> My Commits !!
 
