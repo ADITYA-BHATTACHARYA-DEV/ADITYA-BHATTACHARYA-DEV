@@ -54,6 +54,12 @@
 ### ✍️ Inspirational Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
+## 📖 Read My technical Writings on Hashnode
+## 📝 Latest Hashnode Articles
+<!-- HASHNODE:START -->
+<!-- HASHNODE:END -->
+
+
 ## 🐍 Watch Out -> My Commits !!
 
 <picture>
