@@ -51,9 +51,6 @@
 ## 🏆 GitHub Trophies  
 ![](https://github-profile-trophy.vercel.app/?username=ADITYA-BHATTACHARYA-DEV&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
-### ✍️ Inspirational Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
 ## 📖 Read My technical Writings on Hashnode
 ## 📝 Latest Hashnode Articles
 <!-- BLOG-POST-LIST:START -->
@@ -66,6 +63,11 @@
 </a>
 
 <!-- BLOG-POST-LIST:END -->
+
+### ✍️ Inspirational Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+
 
 ## 🐍 Watch Out -> My Commits !!
 
