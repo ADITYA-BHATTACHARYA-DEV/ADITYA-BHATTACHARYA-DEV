@@ -78,7 +78,8 @@
 </a>
 <br>
 <a href="https://codermaniac.hashnode.dev/pixels-and-promises-the-ongoing-saga-of-computer-vision">
-  <img src="https://www.rishabhsoft.com/wp-content/uploads/2023/04/Blog-Banner-Computer-Vision.jpg" alt="Computer Vision" width="600"/>
+  <img src="![image](https://github.com/user-attachments/assets/84c00443-6098-41de-ac0a-235ed91723c4)
+" alt="Computer Vision" width="600"/>
 </a>
 
 
