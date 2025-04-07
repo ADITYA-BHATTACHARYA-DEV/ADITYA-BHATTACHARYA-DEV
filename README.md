@@ -78,8 +78,7 @@
 </a>
 <br>
 <a href="https://codermaniac.hashnode.dev/pixels-and-promises-the-ongoing-saga-of-computer-vision">
-  <img src="![image](https://github.com/user-attachments/assets/84c00443-6098-41de-ac0a-235ed91723c4)
-" alt="Computer Vision" width="600"/>
+  <img src="https://images.pexels.com/photos/3103199/pexels-photo-3103199.jpeg?cs=srgb&dl=pexels-verma-harshil-3103199.jpg&fm=jpg" alt="Computer Vision" width="600"/>
 </a>
 
 
