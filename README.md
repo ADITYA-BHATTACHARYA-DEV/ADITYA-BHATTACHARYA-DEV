@@ -77,6 +77,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShU9ynm6hnArprqiVQUHpBanUKnQg7QFHNOQ&s" alt="Open Source" width="600"/>
 </a>
 <br>
+</br>
 <a href="https://codermaniac.hashnode.dev/pixels-and-promises-the-ongoing-saga-of-computer-vision">
   <img src="https://images.pexels.com/photos/3103199/pexels-photo-3103199.jpeg?cs=srgb&dl=pexels-verma-harshil-3103199.jpg&fm=jpg" alt="Computer Vision" width="600"/>
 </a>
